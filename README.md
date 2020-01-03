@@ -20,5 +20,5 @@ EX) 경기도, 가평군, 가평읍 일 때경기도를 서울특별시로 바�
 4.	지도는 카카오 지도 API를 사용할 것
 
 
-https://mynamewoon.tistory.com/manage/posts 
+https://mynamewoon.tistory.com 
 참고하세요
